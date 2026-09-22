@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there I`m Geethani👋
 
-<!--
-**geethani829-collab/geethani829-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+- I am a development officer while also working as a Japanese language teacher. I have 4 years of experience as a development officer and 18 years of experience as a Japanese language teacher.
+- 🎓 **Undergraduate Student** pursuing a Degree in Information Technology
+- 💻 **Tech Stack:** Java | MySQL | HTML/CSS | Git & GitHub
+- 📚 **Currently Learning:** Object-Oriented Design, System Analysis, & Database Management
+- 🎯 **Goal:** Building efficient, user-friendly software and web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  -----------
+
+  ### 🛠️ Skills & Technologies
+- **Languages:** Java, SQL, HTML, CSS
+- **Database:** MySQL
+- **Tools & Platforms:** Git, GitHub, VS Code, NetBeans
+
+- ### 📂 Featured Projects
+- **[Project Name 1]** - Short 1-sentence description of what it does. *(Java / MySQL)*
+
+### 📫 Connect with Me
+- **LinkedIn:** [www.linkedin.com/in/geethani-nilanka-166a833a2)
+- **Email:** geethani829@gmail.com
