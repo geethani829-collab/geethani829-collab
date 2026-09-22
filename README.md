@@ -24,8 +24,8 @@
 ---
 
 ### 📂 Featured Projects
-- **[Education Payment & Management System]** - Java desktop application with interactive menu for managing student payments and database operations. *(Java / MySQL)*
 
+- **[Education Payment & Management System](https://github.com/geethani829-collab/education-payment-system)** - Java application with an interactive menu for managing student fee payments, course enrollments, and MySQL database operations. *(Java / MySQL)*
 ---
 
 ### 📫 Connect with Me
